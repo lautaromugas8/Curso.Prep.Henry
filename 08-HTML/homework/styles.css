@@ -1,0 +1,29 @@
+html {
+  display: -webkit-flex;
+  display: flex;
+  -webkit-align-items: center;
+  align-items: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  background: url("https://tn.com.ar/resizer/GhEDKFWmF1aaLxkPjQyF7439tb8=/1440x0/smart/filters:quality(60)/cloudfront-us-east-1.images.arcpublishing.com/artear/3UADUTXDQACWOJLPF3VIITYBFM.jpg");
+}
+h1 {
+  color: crimson;
+}
+img {
+  width: 400px;
+}
+#thirdDiv {
+  height: 600px;
+  width: 500px;
+  background: lightblue;
+  padding: 50px;
+  border: black 1px solid;
+}
+#spanId {
+  font-size: 18px;
+  margin: 50px;
+}
+div {
+  position: relative;
+}
